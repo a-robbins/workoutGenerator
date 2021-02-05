@@ -1,0 +1,22 @@
+This program is a rough draft of what I hope will become a solid workout generator, that can not only take the guess work out of designing an exercise routine, but also will provide helpful advice. However, despite my best efforts, it is quite a bit more complex than I thought it would be and doing a last minute project change, while definitely helpful for spending hours at the terminal, was not so great in smoothing out all the intricacies. Thus, even though I need to turn this in now, it is something that I will continue to tinker with into the future and look forward to getting up and running over winter break. 
+
+That being said, the main things to know about this program is it does have specified input/output files, but you don't really need to worry about that. The program will deal with pulling them in itself and all the user need do is follow the prompts on the screen. The program will determine the appropriate file to pull from and generate a completed workout plan to the output.txt file. 
+
+The files that must be included when running are: 
+    cardio.txt
+    fullbody.txt
+    output.txt
+    struct.c
+    struct.h 
+**Note: you do not need to input these into the command line, they only need to be available for the program to access
+
+For this project, I would like to be graded on: 
+
+1. String Manipulation
+2. File I/O 
+3. Pass by Pointer
+4. Structures
+5. Recursion
+6. Header Files 
+
+Thank you for taking the time to check out my program...I hope that even though it is in a very base form, you still found it unique and enteratining :) 

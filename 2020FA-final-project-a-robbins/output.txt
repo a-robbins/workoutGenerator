@@ -1,0 +1,22 @@
+Movements: 
+---------------------
+tricep-extensions
+bicep-curls
+lat-pulldownss
+seated-flys
+bent-over-rows
+bench-press
+
+
+Repetitions & Rest: 
+---------------------
+reps: 12
+rest: 45 seconds
+tempo: 4-2-1
+
+
+Guidance: 
+---------------------
+When performing muscular endurance, be sure to focus on the slow, deliberate contraction of the appropriate muscle groups. This is the best place to work on form and proper recruitement through slow, steady, controlled movements.
+
+Ideally, you should be doing these movements at 0-50% of your bodyweight.

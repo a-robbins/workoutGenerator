@@ -1,0 +1,10 @@
+3
+low
+lower
+cycling
+moderate
+full
+jogging
+high
+full
+rowing
