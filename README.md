@@ -21,15 +21,7 @@ The files that must be included when running are:
     output.txt
     struct.c
     struct.h 
-**Note: you do not need to input these into the command line, they only need to be available for the program to access
+**Note: you do not need to input these into the command line, they only need to be available for the program to access (at least that is how it worked in Repl.it)
 
-For this project, I would like to be graded on: 
-
-1. String Manipulation
-2. File I/O 
-3. Pass by Pointer
-4. Structures
-5. Recursion
-6. Header Files 
 
 Thank you for taking the time to check out my program...I hope that even though it is in a very base form, you still found it unique and enteratining :) 
